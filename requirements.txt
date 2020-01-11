@@ -2,3 +2,6 @@ Django==2.2.9
 djangorestframework==3.11.0
 pytz==2019.3
 sqlparse==0.3.0
+django-cassandra-engine==1.5.5
+Cassandra==2.0
+cassandra-driver==3.13
